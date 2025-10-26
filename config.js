@@ -5,6 +5,6 @@ const config = {
     interstellar: "password",
     lordpenguin672: "lordpenguin672"
   },
-};
+};  
 
 export default config;
